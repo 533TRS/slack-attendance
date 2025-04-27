@@ -1,0 +1,120 @@
+{
+    "Echo": {
+        "students": [
+            "ALLEN JESSE SP1",
+            "BARBARA DRAKE Spc1",
+            "BARRAGAN JUSTIN SP3",
+            "BROCK JERRY MSgt",
+            "BROWN CARTER SP1",
+            "CRANDALL AUSTIN SP3",
+            "CRAWLEY AMIR SP1",
+            "FLORY JACOB SP1",
+            "GARCIA NATHANIEL SP2",
+            "GREW TROY SP3",
+            "GUTIERREZ YEISON TSgt",
+            "HARDY NICKOLAS SSgt",
+            "HAUGAARD CHRISTIAN SP1",
+            "KLEPPS JORDAN SP3",
+            "KRAM SAMUEL SP1",
+            "MEDINAECHEVARRIA WILLIAM SP4",
+            "MORATAYA ANDREW SP3",
+            "MORRIS COLE SP2",
+            "NELSON HARMONI SP1",
+            "PODELL MATTHEW SP3",
+            "SKINNER AUSTIN SP3",
+            "SMITH JAKE SP1",
+            "THEOPHILE JANIAH SP1",
+            "WOODY KALEB SP3",
+            "YARDLEY ADDISYN SP1"
+        ]
+    },
+    "Foxtrot": {
+        "students":[
+            "ANDERSON CASSIDEE SP1",
+            "BECK RYAN SP1",
+            "BELTRAN EVANSP3",
+            "BROWN WILLIAM SP1",
+            "DAVIS TRACEY SP1",
+            "ESHELMAN SAMUEL SP3",
+            "GARCIA BENJAMIN SP1",
+            "GREEN JALEN SP2",
+            "HAGAN JAVARIUS SP3",
+            "HERMANN ALEXANDER SP1",
+            "HOPE MICHAEL SSgt",
+            "KRUSE SARAH SP3",
+            "LALTA SEEPAUL RAVI SP1",
+            "ODEKERKEN GREGORY SP3",
+            "PETERS LIAM SP1",
+            "RAMOS EDWARD MSgt",
+            "RAYE MALAESHA SP3",
+            "ROSERO BHRAYAN TSgt",
+            "ROYSTON CODY SP2",
+            "SANCHEZ MULERO LUIS SP4",
+            "SPIGNER AMARIUS SP1",
+            "SYPHER CONNOR SP3",
+            "TURNER LUKE SP1",
+            "YERK LAUREN SP3"
+        ]
+    },
+    "Golf": {
+        "students":[
+            "ATCHISON MADISON SP1",
+            "BEZELIK STEPHEN SP3",
+            "BISSELL PARKER SP1",
+            "BRUNNER REAGAN Sgt",
+            "CHA GA SP1",
+            "CLOSE JEFFERY TSgt",
+            "DEAN RYAN SP2",
+            "DUPREZ LIAM SP1",
+            "FELICIANO TAJIKA SP3",
+            "HARTMAN HANNAH SP1",
+            "HAWES JONATHON SP3",
+            "HOTALING DOUGLAS SP1",
+            "JARAMILLO DALLAS Sgt",
+            "LAO ANDREW SP1",
+            "LEDFORD BAILEY SP2",
+            "LEONARD DEEJAY SP3",
+            "OROZCO MELIKAI SP3",
+            "REED JACK SP3",
+            "RODRIGUEZ FRANCO SP1",
+            "SPEEDON ARTHUR SP2",
+            "TAYLOR NOLAN SP1",
+            "VELASCO NOAH SP3",
+            "WILLIAMS HAYDEN SP1",
+            "WONG JUAN SP4"  
+        ]
+    },
+    "Hotel": {
+        "students":[
+            "AZBELL BENJAMIN SP3",
+            "BAHIJE WASSIME SP1",
+            "BLOUNT EZEKIEL SP1",
+            "BOOTH JON SP3",
+            "CHANCEY JAMES SP1",
+            "ESCARENO DIETRICH SP1",
+            "EVANS ALEXANDER Sgt",
+            "FORD MASON SP2",
+            "GARCIA IRIBE PABLO SrA",
+            "GARCIA WALTER TSgt",
+            "GREEN GRACE SP3",
+            "HASBROUCK ETHAN SP1",
+            "IRMO AURELIO SP1",
+            "KIRBY SPENCER SP3",
+            "MANZANO JEHRYN SP2",
+            "MC HENRY JADEN SP3",
+            "MOULTON JEREMIAH SP1",
+            "ORTIZ KEINHOLD SP3",
+            "RODGERS LATRELL SP3",
+            "SIGALA ZIYA SP1",
+            "TERRELL JADEN SP1",
+            "VELASCO TATE SP2",
+            "WILLS ASHTON SP3",
+            "YAN JUSTIN SP1"
+        ]
+    },
+    "SSF": {
+      "students":[
+          "COLLISHAW IAN SPC3"
+      ]
+    }
+}

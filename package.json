@@ -1,7 +1,7 @@
 {
   "name": "533-attendance",
   "version": "1.0.0",
-  "description": "Slack attendance app",
+  "description": "",
   "main": "att.js",
   "scripts": {
     "start": "node att.js"
@@ -12,11 +12,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
     "@slack/web-api": "^7.9.1",
     "body-parser": "^2.2.0",
     "dotenv": "^16.5.0",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "luxon": "^3.6.1"
   }
 }

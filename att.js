@@ -90,19 +90,14 @@ app.post('/interact', async (req, res) => {
         const channelId = process.env.ATTENDANCE_CHANNEL;
 
         // Format current date
-        const now = new Date();
-        // Format time as HH:mm (24hr)
-        const timeString = now.toLocaleTimeString('en-GB', {
-            hour: '2-digit',
-            minute: '2-digit',
-            hour12: false
-        });
-        // Format date as dd MMM yy
-        const dateString = now.toLocaleDateString('en-GB', {
-            day: '2-digit',
-            month: 'short',
-            year: '2-digit'
-        }).replace(/ /g, ' ');
+        const { DateTime } = require('luxon');
+
+        // Get time in America/Los_Angeles timezone
+        const now = DateTime.now().setZone('America/Los_Angeles');
+
+        const timeString = now.toFormat('HH:mm');
+        const dateString = now.toFormat('dd LLL yy');
+
         // Final line
         let summaryText = `📋 *Attendance Report for ${crewName} crew — ${timeString} • ${dateString}*\n`;
 

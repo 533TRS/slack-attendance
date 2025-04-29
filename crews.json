@@ -31,7 +31,6 @@
     "Foxtrot": {
         "students":[
             "ANDERSON CASSIDEE SP1",
-            "BECK RYAN SP1",
             "BELTRAN EVANSP3",
             "BROWN WILLIAM SP1",
             "DAVIS TRACEY SP1",
@@ -76,7 +75,6 @@
             "LEONARD DEEJAY SP3",
             "OROZCO MELIKAI SP3",
             "REED JACK SP3",
-            "RODRIGUEZ FRANCO SP1",
             "SPEEDON ARTHUR SP2",
             "TAYLOR NOLAN SP1",
             "VELASCO NOAH SP3",
@@ -91,9 +89,9 @@
             "BLOUNT EZEKIEL SP1",
             "BOOTH JON SP3",
             "CHANCEY JAMES SP1",
-            "ESCARENO DIETRICH SP1",
             "EVANS ALEXANDER Sgt",
             "FORD MASON SP2",
+            "FORD PENELOPE SP3",
             "GARCIA IRIBE PABLO SrA",
             "GARCIA WALTER TSgt",
             "GREEN GRACE SP3",
@@ -101,20 +99,22 @@
             "IRMO AURELIO SP1",
             "KIRBY SPENCER SP3",
             "MANZANO JEHRYN SP2",
-            "MC HENRY JADEN SP3",
             "MOULTON JEREMIAH SP1",
             "ORTIZ KEINHOLD SP3",
             "RODGERS LATRELL SP3",
             "SIGALA ZIYA SP1",
             "TERRELL JADEN SP1",
             "VELASCO TATE SP2",
-            "WILLS ASHTON SP3",
             "YAN JUSTIN SP1"
         ]
     },
     "SSF": {
       "students":[
-          "COLLISHAW IAN SPC3"
+          "COLLISHAW IAN SPC3",
+          "BECK RYAN SP1",
+        "ESCARENO, DIETRICH SP1",
+        "MANYVAHN, TOMMY SP3"
+        "LEMASTER, KENNETH SP3"
       ]
     }
 }

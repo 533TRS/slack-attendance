@@ -17,6 +17,9 @@ app.use(bodyParser.json());
 const slackClient = new WebClient(process.env.SLACK_BOT_TOKEN);
 const PORT = process.env.PORT || 3000;
 
+app.get('/', (req, res) => {
+  res.send('Hello, Tags for Users app is alive!');
+});
 
 // Load crews
 //const crews = JSON.parse(fs.readFileSync('./crews.json', 'utf8'));

@@ -1,9 +1,102 @@
 {
-    "Echo": {
+    "Alpha": {
         "students": [
-          
+          "ALBRITTON, AUSTIN SP1",
+          "ANDERSON, JAELIN SP3",
+          "BRIDGES, NOAH SP1",
+          "CLARK, KANE SP1",
+          "DINGLER, KYLE SP3",
+          "FRENCH, EDWARD SP2",
+          "GRINESTAFF, ADAM SP1",
+          "GUERRA, JOSHUA SP3",
+          "IVY, SHAWN SP1",
+          "JACKSON, MALIK A1C",
+          "JONES, TEARA SP2",
+          "KNOWLES, BRYSE SP3",
+          "LUPSKI, MICHAEL MSG",
+          "MISNER, NATHAN SP3",
+          "ORCUTT, TYLER SP1",
+          "REAMS, SAMUEL SP3",
+          "SAKALA, CHITONTHOZO SP3",
+          "SILVA, WILLIAM SP1",
+          "VASQUEZ, JERAHD SGT",
+          "XIONG, TOM SP3",
+          "ZARRAD, MICHAEL SP1"
           ]
-    }
+    },
+    "Bravo": {
+        "students": [
+          "ALFONSO, ELI SP1",
+          "ANTONIO, JANELLY SP3",
+          "APGOOD, JAKOB SP2",
+          "BRIGHT, CHASE SP1",
+          "COLON, JOCELYNN SP1",
+          "FLETCHER, DOMINICK SP3",
+          "FUQUA, HUNTER SP2",
+          "GUETZKOW, JOSHUA SP1",
+          "HERBERT, JOSHUA SP3",
+          "JARAMILLO, ANDREW SP3",
+          "KIM, AMY SP3",
+          "MCCAULEY, PATRICK SP1",
+          "MOLLE, WILLIAM SP3",
+          "REID, LORENA SP2",
+          "RIDGELL, MICHAEL SP3",
+          "RIGGS, STEVEN SP1",
+          "THURMAN, XAVIER SP3",
+          "TRINIDAD, JASON SP4",
+          "TURNEY, JACKSON SP1",
+          "WELSH, STEPHEN MSG"
+          ]
+    },
+    "Charlie": {
+        "students": [
+          "AHUMADA, ABRAHAM SP3",
+          "ALLEN, JORDAN SP1",
+          "BLAS, ALBERTO SP3",
+          "CABARCAS, CHRISTINA SP2",
+          "CALVO, PAUL SP1",
+          "DERIGGS, JAZMIN SP1",
+          "GARCIA, ALBERTO SP3",
+          "HAMMER, LOGAN SP1",
+          "HARLEY, RICO SP2",
+          "HATTAL, RICHARD SGT",
+          "HERNANDEZ, KEANU SP3",
+          "JOHNSON, KAMARI SP3",
+          "LUNA, LUIS SP3",
+          "MOSS, JOSHUA SP1",
+          "PLATT, HOWARD SP3",
+          "ROBERTS, JOSHUA SP3",
+          "SAAVEDRA, SEBASTIAN SP1",
+          "SCIOLARO, CONNOR SP2",
+          "WHITE, KEYONNA SP1",
+          "WILLIAMS, TRISTEN SP3"
+          ]
+    },
+    "Delta": {
+        "students": [
+          "ADAMS, AUBREY SP1
+"AMAYA, ANTHONY SP3
+"AYERS, KAISON SP1
+"CASTILLO, ALEXANDER SP1
+"CLEMENT, ROBERT SP3
+"DAVIS, TAYLOR SP2
+"GLASSBROOK, ROBERTISAIAH SP1
+"GRANT, MAXWELL SP3
+HAYES, ELIJAH SP2
+HEGARTY, ADAM SP1
+JACKSON, ALEXANDER SP3
+KELSEY, ZACHARY SP3
+MAPLES, CAMERON SP3
+OPP, WILLIAM SP1
+RAO, PRANAV SP3
+ROGERS, RUBY SP3
+SCHNEIDER, STEPHEN SGT
+SIERRA, ANGEL SP1
+WILLIAMS, TYLER SP1
+WILLIAMSON, JUSTIN SP3
+
+          ]
+    },
     "Echo": {
         "students": [
             "ALLEN JESSE SP1",

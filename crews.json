@@ -1,6 +1,11 @@
 {
     "Echo": {
         "students": [
+          
+          ]
+    }
+    "Echo": {
+        "students": [
             "ALLEN JESSE SP1",
             "BARBARA DRAKE Spc1",
             "BARRAGAN JUSTIN SP3",
@@ -112,9 +117,13 @@
       "students":[
           "COLLISHAW IAN SPC3",
           "BECK RYAN SP1",
-        "ESCARENO, DIETRICH SP1",
-        "MANYVAHN, TOMMY SP3"
-        "LEMASTER, KENNETH SP3"
+          "ESCARENO, DIETRICH SP1",
+          "LEMASTER, KENNETH SP3",
+          "MANYVAHN, TOMMY SP3",
+          "MCHENERY, JADEN SP3",
+          "RAMOS, TIMOTHY SP1",
+          "RODRIGUEZ, FRANCO SP1",
+          "WILLS, ASHTON"
       ]
     }
 }

@@ -203,20 +203,24 @@
       "students":[
           "COLLISHAW IAN SPC3",
           "BECK RYAN SP1",
-          "DIAZ-GERENA, JADRIEL SP1",
-          "IVY, SHAWN SP1",
-          "LIGHT, TORIN SPC1",
           "MANYVAHN, TOMMY SP3",
-          "MCAFEE, SEAN SPC3",
           "MCHENERY, JADEN SP3",
           "RAMOS, TIMOTHY SP1",
-          "ROBERTS, JOSHUA SP3",
           "RODRIGUEZ, FRANCO SP1",
-          "SILVA, WILLIAM SP1",
           "SPEEDON, ARTHUR SP2",
-          "SUH, JOSHUA SP1",
-          "WHITE, KEYONNA SP1",
           "WILLS, ASHTON SP3"
       ]
+    },
+  "Romeo": {
+        "students": [
+            "ROBERTS, JOSHUA SP3",
+            "DIAZ-GERENA, JADRIEL SP1",
+            "IVY, SHAWN SP1",
+            "LIGHT, TORIN SPC1",
+            "MCAFEE, SEAN SPC3",
+            "SILVA, WILLIAM SP1",
+            "SUH, JOSHUA SP1",
+            "WHITE, KEYONNA SP1"
+          ]
     }
 }

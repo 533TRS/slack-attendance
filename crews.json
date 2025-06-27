@@ -3,6 +3,7 @@
         "students": [
           "ALBRITTON, AUSTIN SP1",
           "ANDERSON, JAELIN SP3",
+          "BECK, RYAN SP3",
           "BRIDGES, NOAH SP1",
           "CLARK, KANE SP1",
           "DINGLER, KYLE SP3",
@@ -16,6 +17,7 @@
           "MISNER, NATHAN SP3",
           "ORCUTT, TYLER SP1",
           "REAMS, SAMUEL SP3",
+          "RODRIGUEZ, FRANCO SP3",
           "XIONG, TOM SP3",
           "ZARRAD, MICHAEL SP1"
           ]
@@ -50,6 +52,7 @@
           "BLAS, ALBERTO SP3",
           "CABARCAS, CHRISTINA SP2",
           "CALVO, PAUL SP1",
+          "COLLISHAW, IAN SP3",
           "DERIGGS, JAZMIN SP1",
           "GARCIA, ALBERTO SP3",
           "HAMMER, LOGAN SP1",
@@ -62,6 +65,7 @@
           "PLATT, HOWARD SP3",
           "SAAVEDRA, SEBASTIAN SP1",
           "SCIOLARO, CONNOR SP2",
+          "SPEEDON, ARTHUR SP3",
           "WILLIAMS, TRISTEN SP3"
           ]
     },
@@ -111,25 +115,25 @@
     },
     "SSF": {
       "students":[
-          "COLLISHAW IAN SPC3",
-          "BECK RYAN SP1",
-          "BRIGHT, CHASE SP1",
-          "GOMBIO, KAMRYN A1C",
+          "GARCIA-IRIBE, PABLO SPC4",
+          "GRIFFIN, JONATHAN SP3(CQ)",
+          "LEMASTER, KENNETH SP3(HG)",
           "MANYVAHN, TOMMY SP3",
           "MCHENERY, JADEN SP3",
-          "RODRIGUEZ, FRANCO SP1",
-          "SAKALA, CHITONTHOZO SP3",
-          "SPEEDON, ARTHUR SP2",
+          "RAMOS, TIMOTHY SP2(HG)",
+          "SWONGER, BLAKE"
           "WILLS, ASHTON SP3"
       ]
     },
   "Romeo": {
         "students": [
-            "ROBERTS, JOSHUA SP3",
+            "BRIGHT, CHASE SP1",
             "DIAZ-GERENA, JADRIEL SP1",
             "IVY, SHAWN SP1",
             "LIGHT, TORIN SPC1",
             "MCAFEE, SEAN SPC3",
+            "ROBERTS, JOSHUA SP3",
+            "SAKALA, CHITONTHOZO SP3",
             "SILVA, WILLIAM SP1",
             "SUH, JOSHUA SP1",
             "WHITE, KEYONNA SP1"

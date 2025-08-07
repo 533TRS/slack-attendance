@@ -14,9 +14,7 @@
           "JONES, TEARA SP2",
           "KNOWLES, BRYSE SP3",
           "LUPSKI, MICHAEL MSG",
-          "MISNER, NATHAN SP3",
           "REAMS, SAMUEL SP3",
-          "RODRIGUEZ, FRANCO SP3",
           "XIONG, TOM SP3",
           "ZARRAD, MICHAEL SP1"
           ]
@@ -86,7 +84,6 @@
           "OPP, WILLIAM SP1",
           "RAO, PRANAV SP3",
           "ROGERS, RUBY SP3",
-          "SIERRA, ANGEL SP1",
           "VASQUEZ, JERAHD SGT",
           "WILLIAMS, TYLER SP1",
           "WILLIAMSON, JUSTIN SP3"
@@ -183,17 +180,22 @@
     },
     "SSF": {
       "students":[
+          "BACCHUS, JOHN SP2",
+          "HSIAO, STEFAN SP3",
           "MANYVAHN, TOMMY SP3",
           "MCHENERY, JADEN SP3",
-          "ORCUTT, TYLER SP1",
+          "MILLER, QUETIN SP3",
+          "RODRIGUEZ, FRANCO SP3",
           "RODRIGUEZ PATTERSON, DASHANTI SP1",
-          "SILVA, WILLIAM SP1",
-          "SMITH, ETHAN SP1",
           "WHITE, KEYONNA, SP1",
           "WILLIAMS, HAYDON SP1",
           "WILLS, ASHTON SP3",
           "GRIFFIN, JONATHAN SP3(CQ)",
           "LEMASTER, KENNETH SP3(HG)",
+          "MISNER, NATHAN SP3(BayO)",
+          "ORCUTT, TYLER SP1(2ROPS)",
+          "SILVA, WILLIAM SP1(CQ)",
+          "SMITH, ETHAN SP1(2ROPS)",
           "SWONGER, BLAKE SP3 (CQ)"
       ]
     },
@@ -207,6 +209,7 @@
             "RAMOS, TIMOTHY SP2",
             "ROBERTS, JOSHUA SP3",
             "SAKALA, CHITONTHOZO SP3",
+            "SIERRA, ANGEL SP1",
             "SUH, JOSHUA SP1"
         ]
     }

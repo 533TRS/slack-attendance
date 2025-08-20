@@ -31,7 +31,6 @@
           "SP3 HOGAN, AKONI",
           "SP3 MAGDICH, IZAAK",
           "SP3 MUNOZ, NICHOLAS",
-          "SP1 ORCUTT, TYLER",
           "SP1 ORR, KOBY",
           "SP3 REED, COLTON",
           "SP1 RODRIGUEZ, LUKE",
@@ -60,7 +59,6 @@
           "SP3 RIVERA, DENIS",
           "SP1 SECHRIST, BROCK",
           "A1C TANUVASA, TOA",
-          "SP3 WILLS, ASHTON",
           "SP2 WILSON, GABRIELLE",
           "SP1 WRIGHT, AIDEN"
         ]
@@ -112,14 +110,16 @@
     },
     "SSF": {
       "students":[
-          "BACCHUS, JOHN SP2",
-          "LEE, DAIJHA SP1",
           "MCHENERY, JADEN SP3",
           "MILLER, QUETIN SP3",
+          "ORCUTT, TYLER SP1",
           "RODRIGUEZ PATTERSON, DASHANTI SP1",
           "WHITE, KEYONNA, SP1",
+          "WILLS, ASHTON SP3",
+          "BACCHUS, JOHN SP2 (2ROPS)",
           "GRIFFIN, JONATHAN SP3 (CQ)",
           "HSIAO, STEFAN SP3 (2ROPS)",
+          "LEE, DAIJHA SP1 (2ROPS)",
           "LEMASTER, KENNETH SP3 (HG)",
           "MISNER, NATHAN SP3 (BayO)",
           "SILVA, WILLIAM SP1 (CQ)",

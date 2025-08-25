@@ -1,31 +1,30 @@
 {
     "Alpha": {
         "students": [
-        "SP1​ ACEVEDO, FRANCISCO​",
-        "SP2​ BACCHUS, JOHN​",
-        "MSG​ BAEZ, ADONIS",​
-        "SP3​ BEARDMORE, MICHAEL​",
-        "SP1​ BROWN, EMILY​",
-        "SP3​ BROWN, STEFANIE",​
-        "SP1​ CUNANAN, JARON​",
-        "SP2​ FLANAGAN, NICHOLAS​",
-        "SP3​ FUNDERBURK, CALEB​",
-        "SP1​ GLEAVES, JONATHAN",​
-        "SP1​ HITT, STEVEN​",
-        "SP3​ HSIAO, STEFAN​",
-        "SP1​ MACALOLOOY, ROBERT",​
-        "SP2​ MCINTOSH, ZACHARY",​
-        "SP3​ MENDOZA, AMAYA​",
-        "SP3​ NANEZ, NATHANIEL",​
-        "SP3​ PUGH, NOAH​",
-        "SP1​ SALAZAR, LUIS",​
-        "SP3​ SANTOS, COLIN​",
-        "SP1​ SHARP, TY​",
-        "SP1​ STRAIN, JACK​",
-        "SP3​ TATUM, JUSTIN",​
-        "SP2​ VICK, JARRETT",​
-        "SP3​ WOLFF, RAPHAEL"​
-
+          "SP1​ ACEVEDO, FRANCISCO​",
+          "SP2​ BACCHUS, JOHN​",
+          "MSG​ BAEZ, ADONIS",​
+          "SP3​ BEARDMORE, MICHAEL​",
+          "SP1​ BROWN, EMILY​",
+          "SP3​ BROWN, STEFANIE",​
+          "SP1​ CUNANAN, JARON​",
+          "SP2​ FLANAGAN, NICHOLAS​",
+          "SP3​ FUNDERBURK, CALEB​",
+          "SP1​ GLEAVES, JONATHAN",​
+          "SP1​ HITT, STEVEN​",
+          "SP3​ HSIAO, STEFAN​",
+          "SP1​ MACALOLOOY, ROBERT",​
+          "SP2​ MCINTOSH, ZACHARY",​
+          "SP3​ MENDOZA, AMAYA​",
+          "SP3​ NANEZ, NATHANIEL",​
+          "SP3​ PUGH, NOAH​",
+          "SP1​ SALAZAR, LUIS",​
+          "SP3​ SANTOS, COLIN​",
+          "SP1​ SHARP, TY​",
+          "SP1​ STRAIN, JACK​",
+          "SP3​ TATUM, JUSTIN",​
+          "SP2​ VICK, JARRETT",​
+          "SP3​ WOLFF, RAPHAEL"​
         ]
     },
     "Bravo": {
@@ -59,36 +58,36 @@
     },
     "Charlie": {
         "students": [
-        "SP1​ ABKER, VINCENT​",
-        "SP2​ AVEY, ABIGAIL​",
-        "SP3​ BAIZA, VICENTE​",
-        "SP3​ BETAR, DOMINIC​",
-        "SP1​ BOHORQUEZ, DOMINIC",​
-        "SP1​ CHAMBLISS, JOSEPH​",
-        "SP2​ CRUZ, ADRYAN​",
-        "SP3​ DINGER, CARSON​",
-        "SP1​ EXPOSITO, RODNEY​",
-        "SP3​ GREENE, WILLIAM​",
-        "SP1​ HARRINGTON, LIAM​",
-        "SP2​ LAWSON, NICHOLAS​",
-        "SP1​ LUNA, EZIKEL​",
-        "SP3​ MCCONNELL, JULIAN",​
-        "SP3​ MULLINS, JACOB​",
-        "SP3​ PETERS, TYLER​",
-        "SP1​ PUGH, BRANDON​",
-        "SP3​ REIF, RYAN​",
-        "SP1​ SAPINOSO, SEVONNE",​
-        "SGT​ SCHNEIDER, STEPHEN​",
-        "SP3​ SHAW, WILLIAM​",
-        "SP2​ SHITTU, HAMZA​",
-        "SP1​ SMITH, KALIAH​",
-        "SP3​ TORRES VAZQUEZ, WILFREDO"​
+          "SP1​ ABKER, VINCENT​",
+          "SP2​ AVEY, ABIGAIL​",
+          "SP3​ BAIZA, VICENTE​",
+          "SP3​ BETAR, DOMINIC​",
+          "SP1​ BOHORQUEZ, DOMINIC",​
+          "SP1​ CHAMBLISS, JOSEPH​",
+          "SP2​ CRUZ, ADRYAN​",
+          "SP3​ DINGER, CARSON​",
+          "SP1​ EXPOSITO, RODNEY​",
+          "SP3​ GREENE, WILLIAM​",
+          "SP1​ HARRINGTON, LIAM​",
+          "SP2​ LAWSON, NICHOLAS​",
+          "SP1​ LUNA, EZIKEL​",
+          "SP3​ MCCONNELL, JULIAN",​
+          "SP3​ MULLINS, JACOB​",
+          "SP3​ PETERS, TYLER​",
+          "SP1​ PUGH, BRANDON​",
+          "SP3​ REIF, RYAN​",
+          "SP1​ SAPINOSO, SEVONNE",​
+          "SGT​ SCHNEIDER, STEPHEN​",
+          "SP3​ SHAW, WILLIAM​",
+          "SP2​ SHITTU, HAMZA​",
+          "SP1​ SMITH, KALIAH​",
+          "SP3​ TORRES VAZQUEZ, WILFREDO"​
           ]
     },
     "Delta": {
         "students": [
-        "SPC1 Snuffy, Snuff",
-        "SP3 Doe, John"
+          "SPC1 Snuffy, Snuff",
+          "SP3 Doe, John"
           ]
     },
     "Echo": {

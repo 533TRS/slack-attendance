@@ -100,6 +100,7 @@
           "SP3 HOGAN, AKONI",
           "SP3 MAGDICH, IZAAK",
           "SP3 MUNOZ, NICHOLAS",
+          "SP1 ORCUTT, TYLER",
           "SP1 ORR, KOBY",
           "SP3 REED, COLTON",
           "SP1 RODRIGUEZ, CHRISTIAN",
@@ -128,6 +129,7 @@
           "SP3 RIVERA, DENIS",
           "SP1 SECHRIST, BROCK",
           "A1C TANUVASA, TOA",
+          "WILLS, ASHTON SP3",
           "SP2 WILSON, GABRIELLE",
           "SP1 WRIGHT, AIDEN"
         ]
@@ -180,34 +182,13 @@
     "SSF": {
       "students":[
           "MCHENERY, JADEN SP3",
-          "MILLER, QUETIN SP3",
-          "RODRIGUEZ PATTERSON, DASHANTI SP1",
+          "SWONGER, BLAKE SP3",
           "WHITE, KEYONNA, SP1",
-          "WILLS, ASHTON SP3",
-          "BACCHUS, JOHN SP2 (2ROPS)",
           "GRIFFIN, JONATHAN SP3 (CQ)",
-          "HSIAO, STEFAN SP3 (2ROPS)",
           "LEE, DAIJHA SP1 (2ROPS)",
           "LEMASTER, KENNETH SP3 (HG)",
           "MISNER, NATHAN SP3 (BayO)",
-          "ORCUTT, TYLER SP1 (2ROPS)",
-          "SILVA, WILLIAM SP1 (CQ)",
-          "SMITH, ETHAN SP1 (2ROPS)",
-          "SWONGER, BLAKE SP3 (CQ)"
+          "SILVA, WILLIAM SP1 (CQ)"
       ]
-    },
-  "Romeo": {
-        "students": [
-            "BRIGHT, CHASE SP1",
-            "DIAZ-GERENA, JADRIEL SP1",
-            "IVY, SHAWN SP1",
-            "LIGHT, TORIN SPC1",
-            "MCAFEE, SEAN SPC3",
-            "RAMOS, TIMOTHY SP2",
-            "ROBERTS, JOSHUA SP3",
-            "SAKALA, CHITONTHOZO SP3",
-            "SIERRA, ANGEL SP1",
-            "SUH, JOSHUA SP1"
-        ]
     }
 }

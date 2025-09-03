@@ -5,7 +5,6 @@
               "SP2 BACCHUS, JOHN",
               "MSGT BAEZ, ADONIS",
               "SP3 BEARDMORE, MICHAEL",
-              "SP1 BROWN, EMILY",
               "SP3 BROWN, STEFANIE",
               "SP1 CUNANAN, JARON",
               "SP2 FLANAGAN, NICHOLAS",
@@ -183,13 +182,14 @@
     "SSF": {
       "students":[
           "MCHENERY, JADEN SP3",
-          "SWONGER, BLAKE SP3 (ITEC)",
-          "WHITE, KEYONNA, SP1",
+          "BROWN, EMILY SP1 (Leave)",
           "GRIFFIN, JONATHAN SP3 (CQ)",
           "LEE, DAIJHA SP1 (2ROPS)",
           "LEMASTER, KENNETH SP3 (HG)",
           "MISNER, NATHAN SP3 (BayO)",
-          "SILVA, WILLIAM SP1 (CQ)"
+          "SILVA, WILLIAM SP1 (CQ)",
+          "SWONGER, BLAKE SP3 (ITEC)",
+          "WHITE, KEYONNA SP1"
       ]
     }
 }

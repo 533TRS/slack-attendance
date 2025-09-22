@@ -33,13 +33,11 @@
                 "SP2 ARENAS, AYDEN",
                 "SP2 BAR, WIN",
                 "SP3 BENEDICT, RACHEL",
-                "SP1 BROWN, KAI",
                 "SP3 BRYAN, RILEY",
                 "SP1 DIPOMA, LUKE",
                 "SP3 GREEN, LATRELL",
                 "SP1 HANSEN, CALEB",
                 "SP3 HUFF, LUKE",
-                "SP2 JACKSON, CHRISTOPHER",
                 "SP1 JOHNSON, KAMERON",
                 "SP3 MILLER, QUENTIN",
                 "SP3 OFOCHO, ABEL",
@@ -50,7 +48,6 @@
                 "SP1 SANJURJO, SETH",
                 "SP3 SAUNDERS, RIKITA",
                 "SP1 SMITH, ETHAN",
-                "SP3 TEAGUE BELL, MYLAN",
                 "SP1 UNZE, CARSON"
           ]
     },
@@ -100,7 +97,6 @@
           "SP3 MAGDICH, IZAAK",
           "SP3 MUNOZ, NICHOLAS",
           "SP1 ORCUTT, TYLER",
-          "SP1 ORR, KOBY",
           "SP3 REED, COLTON",
           "SP1 RODRIGUEZ, CHRISTIAN",
           "SP1 RODRIGUEZ, LUKE",
@@ -180,16 +176,23 @@
     },
     "SSF": {
       "students":[
-          "MCHENERY, JADEN SP3",
+          "ALLEN, BRIANNA SP1",
           "BACCHUS, JOHN SP2",
-          "BROWN, STEFANIE SP3 (Leave)",
+          "BROWN, KAI SP1",
+          "BROWN, STEFANIE SP1",
+          "HUNTER, CHASE SP1",
+          "JACKSON, CHRISTOPHER SP2",
+          "LINLEY, RHYDER SP1",
+          "MCHENERY, JADEN SP3",
+          "ORAVEZ, JOHN SP1",
+          "ORR, KOBY SP1",
+          "REYES, ANTONIO SP1",
+          "SCHMITT, JASMINE SP3",
+          "TEAGUE BELL, MYLAN SP3",
           "GRIFFIN, JONATHAN SP3 (CQ)",
           "LEE, DAIJHA SP1 (2ROPS)",
           "LEMASTER, KENNETH SP3 (HG)",
-          "MISNER, NATHAN SP3 (BayO)",
-          "SILVA, WILLIAM SP1 (CQ)",
-          "SWONGER, BLAKE SP3 (ITEC)",
-          "WHITE, KEYONNA SP1 (CQ)"
+          "SWONGER, BLAKE SP3 (ITEC)"
       ]
     }
 }
